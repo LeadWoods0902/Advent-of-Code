@@ -4,7 +4,7 @@ My [Kotlin](https://kotlinlang.org/) solutions to [Advent of Code](https://adven
 
 :star: Completed Part 1
 :star2: Completed Part 2
-:sparkle: Completed on day of release
+:sparkle: Completed both parts on day of release
 
 | Day         | 2021                                     | 2022 | 2023 | 2024 |
 |-------------|------------------------------------------|------|------|------|
