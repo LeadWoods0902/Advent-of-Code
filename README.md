@@ -2,9 +2,9 @@
 
 My [Kotlin](https://kotlinlang.org/) solutions to [Advent of Code](https://adventofcode.com/)
 
-:star: Completed Part 1
-:star2: Completed Part 2
-:sparkle: Completed both parts on day of release
+:star: Completed Part 1 </br>
+:star2: Completed Part 2 </br>
+:sparkle: Completed both parts on day of release </br>
 
 | Day         | 2021                                     | 2022 | 2023 | 2024 |
 |-------------|------------------------------------------|------|------|------|
