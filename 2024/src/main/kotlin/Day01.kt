@@ -9,7 +9,7 @@ fun part1(sortedLeft: List<Int>, sortedRight: List<Int>): Int {
 fun part2(sortedLeft: List<Int>, sortedRight: List<Int>): Int {
     val leftBucket: MutableMap<Int, Int> = mutableMapOf()
 
-    // Count occurrences of each integer in sortedLeft
+    // count occurrences of each integer in sortedLeft
     sortedLeft.forEach { leftBucket[it] = leftBucket.getOrDefault(it, 0) + 1 }
 
     // multiply each integer in sortedRight by its frequency in leftBucket and sum
@@ -24,7 +24,7 @@ fun part2(sortedLeft: List<Int>, sortedRight: List<Int>): Int {
  * p2_solution = 23228917
  */
 fun main() {
-    // Read input and map each line into pairs of integers
+    // read input and map each line into pairs of integers
     val input = File("src/main/resources/Day01.txt").readLines()
         .map { line ->
             line.split(" ").filter { it.isNotEmpty() }.let {
@@ -32,7 +32,7 @@ fun main() {
             }
         }
 
-    // Unzip the input into two lists and sort them
+    // unzip the input into two lists and sort them
     val (sortedLeft, sortedRight) = input.unzip().let {
         it.first.sorted() to it.second.sorted()
     }

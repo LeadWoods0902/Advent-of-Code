@@ -9,7 +9,7 @@ My [Kotlin](https://kotlinlang.org/) solutions to [Advent of Code](https://adven
 | Day         | 2021                                     | 2022  | 2023  | 2024                                       |
 |-------------|------------------------------------------|-------|-------|--------------------------------------------|
 | 1           | [:star2:](2021/src/main/kotlin/Day01.kt) |       |       | [:sparkle:](2024/src/main/kotlin/Day01.kt) |
-| 2           | [:star2:](2021/src/main/kotlin/Day02.kt) |       |       |                                            |
+| 2           | [:star2:](2021/src/main/kotlin/Day02.kt) |       |       | [:sparkle:](2024/src/main/kotlin/Day02.kt) |
 | 3           | [:star2:](2021/src/main/kotlin/Day03.kt) |       |       |                                            |
 | 4           |                                          |       |       |                                            |
 | 5           |                                          |       |       |                                            |
