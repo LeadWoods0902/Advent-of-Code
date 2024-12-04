@@ -3,6 +3,15 @@ package days
 import java.io.File
 
 /**
+ * Day 3 solution for Advent of Code.
+ *
+ * Part 1: Computes the sum of the products of pairs of integers found in using
+ * the regex pattern "mul([Int],[Int])".
+ *
+ * Part 2: Computes the sum of the products of pairs of integers as before, but
+ * only when "do()" is encountered in the input. If "don't()" is encountered,
+ * multiplication is skipped until "do()" is seen again.
+ *
  * p1_solution = 183669043
  *
  * p2_solution = 59097164

@@ -4,8 +4,16 @@ import java.io.File
 import kotlin.math.abs
 
 /**
- * p1_solution = 1889772
+ * Day 1 solution for Advent of Code.
  *
+ * Part1: Computes the sum of the absolute differences between corresponding
+ * integers from two sorted lists.
+ *
+ * Part 2: Counts the occurrences of each integer in the first sorted list and then
+ * multiplies each integer in the second sorted list by its frequency in the first
+ * list, summing the results.
+ *
+ * p1_solution = 1889772
  * p2_solution = 23228917
  */
 class Day01: Day(1) {
