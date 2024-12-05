@@ -77,8 +77,3 @@ class Day04 : Day(4) {
     }
 
 }
-
-fun main() {
-    val day = Day04()
-    println(day.part1())
-}
