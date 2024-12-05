@@ -12,7 +12,7 @@ My [Kotlin](https://kotlinlang.org/) solutions to [Advent of Code](https://adven
 | 1           | [:star2:](2021/src/main/kotlin/Day01.kt) |       |       | [:sparkle:](2024/src/main/kotlin/days/Day01.kt) |
 | 2           | [:star2:](2021/src/main/kotlin/Day02.kt) |       |       | [:sparkle:](2024/src/main/kotlin/days/Day02.kt) |
 | 3           | [:star2:](2021/src/main/kotlin/Day03.kt) |       |       | [:sparkle:](2024/src/main/kotlin/days/Day03.kt) |
-| 4           |                                          |       |       | [:x:](2024/src/main/kotlin/days/Day04.kt)       |
+| 4           |                                          |       |       | [:star2:](2024/src/main/kotlin/days/Day04.kt)       |
 | 5           |                                          |       |       | [:x:](2024/src/main/kotlin/days/Day05.kt)       |
 | 6           |                                          |       |       | [:x:](2024/src/main/kotlin/days/Day06.kt)       |
 | 7           |                                          |       |       | [:x:](2024/src/main/kotlin/days/Day07.kt)       |
